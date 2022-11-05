@@ -1,3 +1,10 @@
+# required package:
+# tensorflow (v2.2.0 or more)
+# imageAI
+# opencv-python (latest version)
+# Pillow
+# numpy
+
 # import the object detection class
 from imageai.Detection import ObjectDetection
 
